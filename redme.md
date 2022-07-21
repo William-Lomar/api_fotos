@@ -1,0 +1,1 @@
+API criado para app para apliacação de galeria de fotos encontrado no link: https://github.com/William-Lomar/app_fotos
